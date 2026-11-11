@@ -1,0 +1,23 @@
+# Keep this portfolio documentation-only.
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+coverage/
+*.log
+*.sql
+*.sqlite
+*.db
+*.dump
+*.bak
+*.zip
+*.rar
+*.7z
+uploads/
+private/
+*.pem
+*.key
+Thumbs.db
+.DS_Store
