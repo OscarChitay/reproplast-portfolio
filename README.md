@@ -62,6 +62,22 @@ The platform was implemented as a separated web client and API service:
 - Worked with relational data models for HR, payroll, contracts, benefits, and reporting.
 - Kept public recruitment journeys separate from authenticated HR operations.
 
+## Screenshot gallery
+
+The gallery is prepared for sanitized product evidence. Screenshots will be added here without publishing the application itself.
+
+| Planned view | What it will demonstrate |
+| --- | --- |
+| `01-dashboard.webp` | Role-aware HR overview and navigation |
+| `02-employee-management.webp` | Employee-management workflow and structured records |
+| `03-recruitment.webp` | Job-opening and applicant-review experience |
+| `04-requests.webp` | Vacation, overtime, advance, or loan-request workflows |
+| `05-payroll.webp` | Payroll-related operations and period management |
+| `06-maintenance.webp` | Administrative catalogues, users, roles, and permissions |
+| `07-reports.webp` | Operational reporting and export capabilities |
+
+See [`assets/screenshots/README.md`](assets/screenshots/README.md) for the sanitization checklist.
+
 ## Privacy and publication boundaries
 
 This is not a runnable application or a copy of the production system. To protect the organization and its people, this portfolio edition excludes:
